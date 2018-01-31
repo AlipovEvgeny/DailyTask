@@ -1,0 +1,28 @@
+[LINE:111]# INFO     [2018-02-01 00:01:56,122]  Запускаем тест 'Содержание заглавия' id: 0000004
+[LINE:113]# INFO     [2018-02-01 00:02:18,778]  Открываем браузер и переходим по адресу https://www.thisis.media/#media
+[LINE:118]# INFO     [2018-02-01 00:02:18,794]  Тест успешно завершен, в заглавии отсутвует Daily Storm
+[LINE:123]# INFO     [2018-02-01 00:02:19,095]  Закрытие браузера
+[LINE:23]# INFO     [2018-02-01 00:02:25,943]  Запускаем тест 'Листание рубрик' id: 0000001
+[LINE:25]# INFO     [2018-02-01 00:02:28,388]  Открываем браузер и переходим по адресу https://www.thisis.media/#media
+[LINE:27]# INFO     [2018-02-01 00:02:28,398]  Ищем вкладку 'Media' - <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1e34df67-29af-4ad5-97da-fa7e5e49d5eb", element="29098dae-c7c9-4f8a-9f30-34010424c05f")>
+[LINE:29]# INFO     [2018-02-01 00:02:28,687]  Кликаем 'Media'
+[LINE:31]# INFO     [2018-02-01 00:02:28,700]  Ищем вкладку 'Culture' - <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1e34df67-29af-4ad5-97da-fa7e5e49d5eb", element="7d080425-8b13-41cf-8596-a533a77a25c7")>
+[LINE:33]# INFO     [2018-02-01 00:02:29,009]  Кликаем 'Culture'
+[LINE:35]# INFO     [2018-02-01 00:02:29,017]  Ищем вкладку 'Video' - <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1e34df67-29af-4ad5-97da-fa7e5e49d5eb", element="27855dc0-3fed-46e2-a14f-1890fc30555d")>
+[LINE:37]# INFO     [2018-02-01 00:02:29,333]  Кликаем 'Video'
+[LINE:39]# INFO     [2018-02-01 00:02:29,347]  Ищем вкладку 'About Us' - <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1e34df67-29af-4ad5-97da-fa7e5e49d5eb", element="29f36126-4521-4873-ba74-6ffa813e014e")>
+[LINE:41]# INFO     [2018-02-01 00:02:29,638]  Кликаем 'About Us'
+[LINE:45]# INFO     [2018-02-01 00:02:29,948]  Закрытие браузера
+[LINE:90]# INFO     [2018-02-01 00:02:36,885]  Запускаем тест 'Невалидный XPath' id: 0000003
+[LINE:92]# INFO     [2018-02-01 00:02:39,344]  Открываем браузер и переходим по адресу https://www.thisis.media/#media
+[LINE:97]# INFO     [2018-02-01 00:02:39,398]  Элемент не найден
+[LINE:101]# INFO     [2018-02-01 00:02:39,653]  Закрытие браузера
+[LINE:57]# INFO     [2018-02-01 00:02:46,044]  Запускаем тест 'Подписка на рассылку' id: 0000002
+[LINE:59]# INFO     [2018-02-01 00:02:48,427]  Открываем браузер и переходим по адресу https://www.thisis.media/#media
+[LINE:63]# INFO     [2018-02-01 00:02:48,436]  Ищем поле для email - <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5e777f22-1961-43ee-9ae6-1db298ae8cda", element="9836f40f-2730-42dc-ba11-5e83bf07c1ed")>
+[LINE:65]# INFO     [2018-02-01 00:02:48,447]  Ищем поле 'Соглашение обработки данных' - <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5e777f22-1961-43ee-9ae6-1db298ae8cda", element="f98683b6-6a89-47d5-8b69-c94d138fee4c")>
+[LINE:68]# INFO     [2018-02-01 00:02:48,457]  Ищем поле 'Подписаться' - <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5e777f22-1961-43ee-9ae6-1db298ae8cda", element="e5803063-6e81-4581-b3f5-3048156472e9")>
+[LINE:70]# INFO     [2018-02-01 00:02:48,553]  Вписываем в поле для email наш адрес - 2aRSDGQ6@inbox.ru
+[LINE:72]# INFO     [2018-02-01 00:02:48,812]  Нажимаем на поле 'Соглашение обработки данных' - <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5e777f22-1961-43ee-9ae6-1db298ae8cda", element="f98683b6-6a89-47d5-8b69-c94d138fee4c")>
+[LINE:74]# INFO     [2018-02-01 00:02:48,812]  Нажимаем 'Подписаться' - <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5e777f22-1961-43ee-9ae6-1db298ae8cda", element="e5803063-6e81-4581-b3f5-3048156472e9")>
+[LINE:80]# INFO     [2018-02-01 00:02:49,096]  Закрытие браузера
